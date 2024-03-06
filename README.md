@@ -3,7 +3,8 @@ still in alpha version ^-^
 
 discord raiding bot
 
+run:
 ```
-python .py
+python raider.py
 ```
 to run the tool
